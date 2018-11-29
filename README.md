@@ -1,5 +1,5 @@
 # 写在前面
-我们说搭建shadowsocks 服务器、VPN 服务器，首先，**你得有个服务器**。国内的有阿里云，腾讯云。不过他们都太贵了，我就搭建shadowsocks 服务器就为了查点资料用用每个月还要七八十块 T_T，而且在国内的服务器做这类事情还是会有很多限制的。经过多方试用和筛选，最后选定了[vultr](https://www.vultr.com/?ref=6940313)， [vultr](https://www.vultr.com/?ref=6940313)每个月最低只要5美元，稳定性很好，客服回复速度也很快。最重要的是，
+我们说搭建shadowsocks 服务器、VPN 服务器，首先，**你得有个服务器**。国内的有阿里云，腾讯云。不过他们都太贵了，我就搭建shadowsocks 服务器就为了查点资料用用每个月还要七八十块 T_T，而且在国内的服务器做这类事情还是会有很多限制的。经过多方试用和筛选，最后选定了[vultr](https://www.vultr.com/?ref=7662316)， [vultr](https://www.vultr.com/?ref=7662316)每个月最低只要5美元，稳定性很好，客服回复速度也很快。最重要的是，
 
 --
 
@@ -13,7 +13,7 @@
 
 
 # vultr 四步轻松构建服务器教程
-- **第一步，点击**[www.vultr.com](https://www.vultr.com/?ref=6940313)进去注册，填email和密码什么的按流程走就好了。
+- **第一步，点击**[www.vultr.com](https://www.vultr.com/?ref=7662316)进去注册，填email和密码什么的按流程走就好了。
 - **第二步，**注册成功后需要绑定付款方式，~~需要注意的是如果用PAYPAL至少充值5美元，如果绑定信用卡不用充值，但是需要2.5美金手续费验证，这个手续费一个月后会返还给你~~，**现在已经可以支持支付宝了！相信大家都有支付宝，我们直接进入下一步吧**。
 - **第三步，**绑定好后点击左边的`Servers`进入服务器页面，点击最右边的大大的`+`号按钮，添加一个服务器。
 ![image.png](http://upload-images.jianshu.io/upload_images/2897814-00ae1541c2c125c8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
